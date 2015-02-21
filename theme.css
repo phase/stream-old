@@ -7,6 +7,10 @@ body {
 	padding-bottom: 20px;
 }
 
+.remodal-overlay {
+	background: rgba(28, 136, 109, 0.59);
+}
+
 a {
 	color: #FFA118;
 	text-decoration: none;
