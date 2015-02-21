@@ -1,8 +1,5 @@
 /*
  *  Remodal - v0.3.0
- *  Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
- *  http://vodkabears.github.io/remodal/
- *
  *  Made by Ilya Makarov
  *  Under MIT License
  */
