@@ -9,4 +9,4 @@ Fork, Edit, Push.
 ###Plugins
 I am currently not accepting help creating plugins.
 
-Licesnsed under the MIT License.
+###Licesnsed under the MIT License.
